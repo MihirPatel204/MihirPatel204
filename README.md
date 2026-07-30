@@ -1,22 +1,61 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mihir Patel
-===================================================================================================================================
+<!-- Header -->
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Mihir Patel - Software, ML & AI Engineer Banner"/>
+</div>
 
-Student
--------
+---
 
-I'm a curious and enthusiastic student diving into the world of coding. I have experience with a variety of programming languages and web technologies, and I’m always eager to learn more.
+### About Me
 
-* ✉️  You can contact me at [mihirpatel6075@gmail.com](mailto:mihirpatel6075@gmail.com)
-* 🧠  I'm learning DSA and SoftWare Devlopment
+I'm **Mihir Patel**, a curious and enthusiastic **Undergrad** pursuing my B.E. in **Computer Engineering**, passionate about building intelligent systems that solve real-world problems.
 
-### Skills
+- 🎓 Pursuing **B.E. in Computer Engineering**
+- 🧠 Currently learning **DSA** and **Software Development**
+- 💻 Passionate about **Web Development** & **Machine Learning**
+- ✉️ Reach me at **[mihirpatel6075@gmail.com](mailto:mihirpatel6075@gmail.com)**
+
+<br clear="right"/>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css,mysql&theme=dark" height="48" alt="Languages"/>
 </p>
 
+---
 
-### Socials
+### Libraries & Frameworks
 
-<p align="left"> <a href="https://www.github.com/MihirPatel204" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mihir-patel-20ap5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="48" alt="Scikit-Learn"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="48" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48" alt="Keras"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="48" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn"/>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="48" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="48" alt="Tailwind CSS"/>
+</p>
+
+---
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,aws,gcp,vercel,anaconda,supabase,docker&theme=dark" height="48" alt="Tools"/>
+</p>
+
+---
+
+### Connect Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihir-patel-20ap5"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn"/></a>
+  <a href="mailto:mihirpatel6075@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email"/></a>
+</p>
+
