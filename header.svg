@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..600;1,400..600&amp;family=Plus+Jakarta+Sans:wght@300;400;500&amp;display=swap');
+      
+      .bg { fill: #F5F4F0; }
+      .circle-line { stroke: #333333; stroke-width: 1px; fill: none; opacity: 0.35; }
+      .bottom-bar { fill: #1E2022; }
+      
+      .title { font-family: 'Playfair Display', Georgia, serif; font-size: 46px; font-weight: 400; fill: #1A1A1A; letter-spacing: 0.5px; }
+      .subtitle { font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 17px; font-weight: 400; fill: #444444; letter-spacing: 2px; }
+      .url { font-family: 'Plus Jakarta Sans', -apple-system, sans-serif; font-size: 13px; font-weight: 400; fill: #666666; letter-spacing: 1.5px; }
+    </style>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect class="bg" width="1200" height="260" />
+
+  <!-- Left Bottom Corner Concentric Circles (2 Circles) -->
+  <g class="circle-group-left">
+    <circle class="circle-line" cx="0" cy="260" r="140" />
+    <circle class="circle-line" cx="0" cy="260" r="260" />
+  </g>
+
+  <!-- Right Side Concentric Circles around Name (3 Circles shifted right) -->
+  <g class="circle-group-right">
+    <circle class="circle-line" cx="920" cy="118" r="150" />
+    <circle class="circle-line" cx="920" cy="118" r="240" />
+    <circle class="circle-line" cx="920" cy="118" r="330" />
+  </g>
+
+  <!-- Right-Shifted Typography Section -->
+  <g transform="translate(920, 0)">
+    <!-- Main Name -->
+    <text class="title" x="0" y="105" text-anchor="middle">Mihir Patel</text>
+    
+    <!-- Role Title -->
+    <text class="subtitle" x="0" y="142" text-anchor="middle">software, ml &amp; ai engineer</text>
+    
+    <!-- Portfolio Link -->
+    <text class="url" x="0" y="205" text-anchor="middle">patelmihir.me</text>
+  </g>
+
+  <!-- Dark Bottom Accent Border Bar -->
+  <rect class="bottom-bar" x="0" y="254" width="1200" height="6" />
+</svg>
